@@ -6,8 +6,6 @@ cover = "/images/reflection1img.jpg"
 description = "This is the reflection for sprint 1 :)"
 +++
 
-## Reflection 
-> 
 
 ## What happened during Sprint 1 : 
 
@@ -24,9 +22,15 @@ description = "This is the reflection for sprint 1 :)"
 
 ![Reflection/Screenshot2.png](/images/Screenshot2.png)
 
+> I then used Git to push the locally generated Hugo files to my GitHub repository
+
+![Reflection/ScreenshotGit.png](/images/ScreenshotGit.png)
+
+
 > Problem 1
 
-+ Netlify was not able to deploy the website as seen in the error below where the Hugo version was conflicting and outdated on netlify and the theme I was using.
++ Afterwards, I had to point Netlify to my github repository which was easily able to be completed as Netlify provided a simple process to connect to your github repository.
+ However, Netlify was not able to deploy the website as seen in the error below where the Hugo version was conflicting and outdated on netlify and the theme I was using.
 
 ![Reflection/Screenshot3.png](/images/Screenshot3.png)
 
@@ -37,7 +41,7 @@ building/deploying the domain by setting the hugo version to the current version
 
 ![Reflection/Screenshot4.png](/images/Screenshot4.png)
 
-> Screenshot of the deployment from Netlify to n1kz.me after pointing it to the github repository.
+> Screenshot of the deployment from Netlify to n1kz.me after pointing it to the github repository, which means that the website was fully functional and successfully deployed online!
 
 ![Reflection/Screenshot5.png](/images/Screenshot5.png)
 
@@ -55,4 +59,7 @@ and after bringing it up to our tutor's Larry and Jason, we figured out that Hug
 
 ![Reflection/solution2.png](/images/solution2.png)
 
+## Reflection
+
+>  My first week of experiencing Summer studio was pretty busy as I was in the city every day for either Summer Studio or for a full day at work. 
 
