@@ -2,6 +2,7 @@
 title = "Introduction"
 date = "2020-22-01"
 author = "Nik Zay"
+cover = "/images/profilepicture.png"
 description = "This is my introduction! :)"
 +++
 
