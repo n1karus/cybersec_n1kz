@@ -59,6 +59,12 @@ and after bringing it up to our tutor's Larry and Jason, we figured out that Hug
 
 ![Reflection/solution2.png](/images/solution2.png)
 
+>On the Thursday (23/01/2020), Tyrone Huang asked one of our tutor's Jason on how the static sites were actually generated and deployed, and how it worked. Jason explained it to us through
+the use of a diagram as shown in the image directly below. He showed us how to structure our website and the way it communicates between all the different nodes such as all the files being stored
+on github, which is connected to Netlify that grabs the files stored and hosts the webpage hosted under the domain provided by namecheap.  
+
+![Reflection/sitestructure.jpeg](/images/sitestructure.jpeg)
+
 ## Reflection
 
 >  My first week of experiencing Summer studio was pretty busy as I was in the city every day for either Summer Studio or for a full day at work. 
