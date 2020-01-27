@@ -43,5 +43,10 @@ building/deploying the domain by setting the hugo version to the current version
 
 ![Reflection/solution2.png](/images/solution2.png)
 
+>Finally got website deployed online and working perfectly.
+
+![Reflection/Screenshot5.png](/images/Screenshot5.png)
+
 ## Reflection 
+> 
 
