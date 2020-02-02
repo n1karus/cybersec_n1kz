@@ -2,7 +2,6 @@
 title = "Reflection 1"
 date = "2020-22-01"
 author = "Nik"
-cover = "/images/reflection1img.jpg"
 description = "This is the reflection for sprint 1 :)"
 +++
 
