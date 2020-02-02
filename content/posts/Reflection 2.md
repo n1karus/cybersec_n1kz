@@ -26,14 +26,16 @@ description = "This is the reflection for sprint 2! :)"
 >
 >Afterwards we had **Robert Mitchell** another guest speaker who is a Security Engineering Manager at Gitlab come in and talk to us about the IT security history, hacking culture and real-world 
 > experience in the cyber security field.  He had brought up multiple interesting incidents but one's that caught my eye were the "Gen 1 - Virus wars" which consisted of "Melissa" and "ILOVEYOU" 
-> which caused respectively, $80M estimated damage and $5-8 billion worth of damage . *These viruses were causing massive economic damage and still currently are as people are unaware of these types of attacks done through social engineering to influence the person to trust and click links and files sent through emails. People less adept with technology need a clear understanding on the types of emails that are to be trusted and which ones are emails not to be trusted to avoid them being affected and causing data breaches due to human error* **(Problem statement for SLO 1)**. 
-> To combat this, companies, schools and the government sh> ould be spreading awareness about the dangers on the internet and especially about the viruses that malicious people can send through 
+> which caused respectively, $80M estimated damage and $5-8 billion worth of damage . **These viruses cause massive economic damage past and present, as people are unaware of these
+> attacks done through social engineering to influence the person to trust and click links and files sent through emails. People less adept with technology need a clear understanding on the types 
+> of emails and links that are to be trusted to avoid them being affected and causing data breaches due to human error** **(Problem statement for SLO 1)**. 
+> To combat this, companies, schools and the government should be spreading awareness about the dangers on the internet and especially about the viruses that malicious people can send through 
 > the mail in the form of attached files or embedded scripts. This will help reduce the amount of people that will fall for these type of emails that rely on social engineering 
 > and human error/trust to cause a data breach or get hold of someone's computer.
 >
 >Due to all these attacks being made and causing massive economical damage, protocols and actions started being made to restrict the way information moved around, highlighting how these several cyber attacks have influenced and impacted the cyber world. In particular, Rob's presentation about all these real-world cyber attacks and the history of IT security was really interesting and helped broaden my knowledge about the cyber security field, and I will research all the incidents he had told us about in further detail hopefully by next sprint.
 >
-> Robert Mitchell's slides: https://drive.google.com/file/d/1YR0wy2bLSHQXxDeDASy0kzwFslvWyw5S/view?usp=sharing
+> **Robert Mitchell's slides**: https://drive.google.com/file/d/1YR0wy2bLSHQXxDeDASy0kzwFslvWyw5S/view?usp=sharing
 ## Wednesday (29/01/2020)
 > I did not get to attend the drop in session due to work however afterwards I had started on my part of the presentation. I began by communicating with my team using the Microsoft Teams chat function where we organised a call and check up after we did our parts as seen in Figure 3.
 >
