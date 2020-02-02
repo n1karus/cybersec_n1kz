@@ -24,7 +24,7 @@ Dylan helped me successfully deploy my domain and Github pages, so all files pus
 >
 >In the lab on Thursday (23/01/2020), I was late, but an industry guest (Matthew Brennan) came in to talk to us about the cybersecurity industry, his job, and how he got there. He provided us 
 with a lot of pathways on how to get a role in the industry, such as war games or courses we can take that are useful in teaching us about Cyber Security. Thinking back to this meeting, I realised 
-I should have asked Matthew more questions about the impact of attacks and common vulnerabilities since he used to be a Penetration Tester since he is a stakeholder within the industry. I should ask
+I should have asked Matthew more questions about the impact of attacks and common vulnerabilities since he used to be a Penetration Tester which meant he was a stakeholder within the industry. I should ask
 later if I can get his contact details to meet the first SLO. After his talk, we continued with our e-portfolio, where I created an About Me page and a reflection page where I began to upload all
 the screenshots I took throughout the process of me creating this static site. During the lab, Tyrone Huang had asked Jason how this whole static site worked as he was confused to which Jason 
 created a clear diagram seen in Figure 10, and he explained how the websites are structured and how it communicates through each node. Later on, in the lab, I had tried to redirect my homepage to 
