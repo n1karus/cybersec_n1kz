@@ -1,6 +1,6 @@
 +++
 title = "Bandit Logs"
-date = "2020-31-01"
+date = "2020-01-31"
 author = "Nik"
 description = "This is my logs for OvertheWire Bandit wargames."
 +++

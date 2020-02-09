@@ -1,6 +1,6 @@
 +++
 title = "Reflection 2"
-date = "2020-28-01"
+date = "2020-01-28"
 author = "Nik"
 description = "This is the reflection for sprint 2! :)"
 +++
