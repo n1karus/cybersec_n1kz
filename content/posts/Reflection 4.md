@@ -51,9 +51,12 @@ description = "This is the reflection for Week 4 :)"
 > was meant to get the usernames. I did not know what enumeration was until I finally caved into looking at another person's write-up and figured out that you can enumerate domains to figure out a 
 > lot of different information such as share files or usernames. I ended up reading the rest of the write-up rather than attempting the rest of the box myself.
 >
-> ![Reflection4SS3.png](/images/Reflection4SS3.png) **Figure 3: Write-up for Basic Pentesting 2 (**[https://resources.infosecinstitute.com/basic-pentesting-2-ctf-walkthrough/#gref](https://resources.infosecinstitute.com/basic-pentesting-2-ctf-walkthrough/#gref))
+> ![Reflection4SS3.png](/images/Reflection4SS3.png) **Figure 3: Write-up for Basic Pentesting 2 ([https://resources.infosecinstitute.com/basic-pentesting-2-ctf-walkthrough/#gref](https://resources.infosecinstitute.com/basic-pentesting-2-ctf-walkthrough/#gref))**
 >
-> Thus, I felt like I had cheated and did not end up doing a write-up for this particular box. I want to re-attempt this box next week and possibly make a write-up then to see if I can actually complete it on my own rather than just follow another write-up. However I do not think that looking at another write-up for guidance is cheating. But when you just follow the walk through and not just using it to help you past a certain blockade is when I thought it was cheating which I had ended up doing this time. Due to what happened today, I set a proper goal of being able to hack into a box without looking at a write-up for help by the end of the studio, regardless of the difficulty.
+> Thus, I felt like I had cheated and did not end up doing a write-up for this particular box. I want to re-attempt this box next week and possibly make a write-up then to see if I can actually 
+> complete it on my own rather than just follow another write-up. However I do not think that looking at another write-up for guidance is cheating. But when you just follow the walk through and 
+> not just using it to help you past a certain blockade is when I thought it was cheating which I had ended up doing this time. Due to what happened today, I set a proper goal of being able to 
+> hack into a box without looking at a write-up for help by the end of the studio, regardless of the difficulty.
 
 ### Thursday (13/02/2020)
 
@@ -71,7 +74,7 @@ description = "This is the reflection for Week 4 :)"
 > I began trying to break into the box following the process I have learnt and started using reconnaissance tools to gather information first. I did my write-up as I went along again and after 
 > reading other people's write-ups on Wednesday,  I feel like I have a better understanding on how technical write-ups are meant to be.
 >
-> ![Reflection4SS4.png](/images/Reflection4SS4.png) **Figure 4: My Literally Vulnerable write-up in notion ([https://n1kz.me/posts/ua-literally-vulnerable/](https://n1kz.me/posts/ua-literally-vulnerable/))  
+> ![Reflection4SS4.png](/images/Reflection4SS4.png) **Figure 4: My Literally Vulnerable write-up in notion ([https://n1kz.me/posts/ua-literally-vulnerable/](https://n1kz.me/posts/ua-literally-vulnerable/))**  
 >
 > As seen in the beginning of Figure 4, I started to try improve on my write-up skills and flesh it out by explaining my thought process and what was happening at the time and why I chose the IP 
 > address I did. I also labelled the screenshot with red text on what commands I used in that instance to make it easier to see what I did and how. I personally think that compared to my previous 
