@@ -27,7 +27,7 @@ dependencies then used the command **ftp 192.168.119.128** again and prompted me
 login was allowed and successfully logged into the directory which showed the file backupPasswords as seen in the screenshot directly below. Reading the output of the file we see that one of the 
 users are called Doe and there is a list of passwords with one of them being the correct one.
 
-- ![UA%20Literally%20Vulnerable/Screenshot_4.png](/litvulnimg/Screenshot_4.png) **Commands used: ftp 192.168.229.128 / ftp > get backupPasswords / cat backupPasswords** 
+- ![UA%20Literally%20Vulnerable/Screenshot_4.png](/litvulnimg/Screenshot_4.png) Commands used: **ftp 192.168.229.128 / ftp > get backupPasswords / cat backupPasswords** 
 
 - Getting the list of backup passwords I had decided to go back to the webpage which was still not loading properly so I checked the developer console (F12) which immediately brought to my 
 attention that the site was requesting the domain "**literally.vulnerable"** for an external script to load the page. 
@@ -38,7 +38,7 @@ attention that the site was requesting the domain "**literally.vulnerable"** for
 "**literally.vulnerable/?author=1"**. So to try and fix this I recalled some knowledge on /etc/. Having done subjects at UTS such as Security Fundamentals, Network Servers and Cyber Security, 
 I knew that there was a file in the location **/etc/hosts** that allows you to point a domain to a machine's IP address. 
 
-- ![UA%20Literally%20Vulnerable/Screenshot_6.png](/litvulnimg/Screenshot_6.png) **Commands used: echo "192.168.229.128 literally.vulnerable" >> /etc/hosts**
+- ![UA%20Literally%20Vulnerable/Screenshot_6.png](/litvulnimg/Screenshot_6.png) Commands used: **echo "192.168.229.128 literally.vulnerable" >> /etc/hosts**
 
 - Editing the file to point the machine's IP address and the domain name helped fix the formatting and fully loading the page as seen in the screenshot directly above. I then went to the log-in 
 screen and automatically began trying to log into the admin account by brute forcing it. I attempted to use the username "admin" as I saw that account have a post and went through all the 
