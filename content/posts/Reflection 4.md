@@ -72,7 +72,7 @@ description = "This is the reflection for Week 4 :)"
 > reading other people's write-ups on Wednesday,  I feel like I have a better understanding on how technical write-ups are meant to be.
 >
 > ![Reflection4SS4.png](/images/Reflection4SS4.png) **Figure 4: My Literally Vulnerable write-up in notion ([https://n1kz.me/posts/ua-literally-vulnerable/](https://n1kz.me/posts/ua-literally-vulnerable/))  
-
+>
 > As seen in the beginning of Figure 4, I started to try improve on my write-up skills and flesh it out by explaining my thought process and what was happening at the time and why I chose the IP 
 > address I did. I also labelled the screenshot with red text on what commands I used in that instance to make it easier to see what I did and how. I personally think that compared to my previous 
 > write-ups such as [n1kz.me/posts/bandit-logs](http://n1kz.me/posts/bandit-logs), [n1kz.me/posts/natas-logs](http://n1kz.me/posts/natas-logs) and [n1kz.me/posts/basic-pentesting-1](http://n1kz.me/posts/basic-pentesting-1) 
