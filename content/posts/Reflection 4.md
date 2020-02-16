@@ -64,14 +64,14 @@ description = "This is the reflection for Week 4 :)"
 >
 > We then went through another box as a demo but this time as a class where the class would give input on what we do rather than Jason just doing the demo. However the box that we ended up doing 
 > as a class was Basic Pentesting 2 which I had done yesterday so I took a step back from helping out as much and only helped when asked to point the class in the right direction. While that was 
-> going on I had a quick chat with Max about the box I was choosing for the deliverable which I ended up choosing a box called **UA: Literally Vulnerable 
-> (**[https://www.vulnhub.com/entry/ua-literally-vulnerable,407/](https://www.vulnhub.com/entry/ua-literally-vulnerable,407/)). I found out that 2 other people were doing the same box who was 
+> going on I had a quick chat with Max about the box I was choosing for the deliverable which I ended up choosing a box called **UA: Literally Vulnerable** 
+> ([https://www.vulnhub.com/entry/ua-literally-vulnerable,407/](https://www.vulnhub.com/entry/ua-literally-vulnerable,407/)). I found out that 2 other people were doing the same box who was 
 > Hayden and Matthew which meant I had people I could talk to about the box if I ever ended up getting stuck.
 >
 > I began trying to break into the box following the process I have learnt and started using reconnaissance tools to gather information first. I did my write-up as I went along again and after 
 > reading other people's write-ups on Wednesday,  I feel like I have a better understanding on how technical write-ups are meant to be.
 >
-> ![Reflection4SS4.png](/images/Reflection4SS4.png) **Figure 4: My Literally Vulnerable write-up in notion**
+> ![Reflection4SS4.png](/images/Reflection4SS4.png) **Figure 4: My Literally Vulnerable write-up in notion ([https://n1kz.me/posts/ua-literally-vulnerable/](https://n1kz.me/posts/ua-literally-vulnerable/))  
 
 > As seen in the beginning of Figure 4, I started to try improve on my write-up skills and flesh it out by explaining my thought process and what was happening at the time and why I chose the IP 
 > address I did. I also labelled the screenshot with red text on what commands I used in that instance to make it easier to see what I did and how. I personally think that compared to my previous 
